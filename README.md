@@ -1,5 +1,7 @@
 # 🎯 Number Guessing Game
 
+**PROJECT URL:** https://github.com/Diddie029/number-guessing-game
+
 ## Project Description
 A simple interactive Python game where the computer generates a random number between 1 and 100. The player must guess the correct number within a limited number of attempts.
 
@@ -58,6 +60,6 @@ python main.py
 ```
 
 ## Project URL
-**GitHub Repository:** https://github.com/Diddie029/number-guessing-game
+**PROJECT URL:** https://github.com/Diddie029/number-guessing-game
 ## Author
 DIDDIE
